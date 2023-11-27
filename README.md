@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/clipboard-landing-page-built-with-vuejs-5yC8w5Wllj](https://www.frontendmentor.io/solutions/clipboard-landing-page-built-with-vuejs-5yC8w5Wllj)
+- Live Site URL: [https://clipboard-landing-page-k23m7avzv-ted-bankongs-projects.vercel.app](https://clipboard-landing-page-k23m7avzv-ted-bankongs-projects.vercel.app)
 
 ## My process
 
